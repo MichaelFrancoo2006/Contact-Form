@@ -15,6 +15,11 @@ project-folder/
 │-- index.html
 │-- README.md
 ```
+## Technologies Used
+
+| Technology | Description                        |
+|------------|------------------------------------|
+| HTML5       | Used to structure the Contact Form.  |
 
 ## How to Use
 1. Open `index.html` in any web browser.
